@@ -1,0 +1,3 @@
+﻿  algorithm10.cpp
+D:\Algorithm\algorithm10\algorithm10.cpp(2,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  algorithm10.vcxproj -> D:\Algorithm\algorithm10\Debug\algorithm10.exe
