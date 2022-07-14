@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main() {
-	int P = 0, Q, A[6][6], i, j;  // When an error occurs A[7][6]
+	int P = 0, Q, A[7][6], i, j;  // When an error occurs A[7][6]
 
 	for (i = 0; i <= 5; i++) {
 		for (j = 0; j <= 5; j++) {
@@ -24,5 +24,6 @@ void main() {
 		}
 
 		puts("");
+
 	}
 }
