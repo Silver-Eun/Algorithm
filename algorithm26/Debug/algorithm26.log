@@ -1,0 +1,3 @@
+﻿  algorithm26.cpp
+D:\Algorithm\algorithm26\algorithm26.cpp(2,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  algorithm26.vcxproj -> D:\Algorithm\algorithm26\Debug\algorithm26.exe
